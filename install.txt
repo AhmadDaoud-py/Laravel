@@ -1,0 +1,21 @@
+1st _ we need to have the composer "composer is a PHP dependency package manager"
+Getting Started -> install it globally.
+
+2_ in cmd or git bash we can run the command "composer\ composer --v" to check the intallation was ssucceded.
+
+3_ install node.JS "node --v"
+
+4_ to install laravel we need to run the command "composer global require laravel/installer"
+then we can run "laravel or laravel --v"
+
+5_ to create laravel project "laravel new freeCodeGram"
+
+6_ "php atrisan" is command to show the different commands that available in this disposal
+
+7_"php artisan serve" to run the php server so we can open it in our browser we can copy the address and past it in our browser 
+
+8_ "php artisan make:auth" it will create for us an login and regisration facility and add it to our project
+
+9_ "npm intall" project manager for javascript 
+
+10_"npm run dev" to compile our project to a file we can use, 
